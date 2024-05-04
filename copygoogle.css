@@ -1,0 +1,29 @@
+.icon-google {
+    width: 300px;
+    margin-top: 10%;
+    margin-left: 40%;
+    background: transparent;
+    
+}
+
+.form-input {
+    margin-left: 32%;
+    border-radius: 20%;
+    border: 0,2px solid rgb(209, 208, 208);
+    padding-bottom:  5%;
+}
+
+.btn-success {
+    background-color: rgb(248, 248, 248);
+    color: rgb(67, 67, 67);
+    border: none;
+    font-size: small;
+}
+
+.searchButton {
+    margin-left: 12%;
+}
+
+.feelingButton {
+    margin-left: 2%;
+}
